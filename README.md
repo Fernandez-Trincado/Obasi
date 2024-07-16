@@ -14,11 +14,10 @@ C. Obasi (1), M. Gómez (2), D. Minniti (2, 3), J. G. Fernández-Trincado (4), M
 
 # Relevant publications:
 
-A) Searching for globular clusters in the inner halo of the Circinus galaxy
-link: https://mail.google.com/mail/u/0/?ogbl#inbox/KtbxLwgsttzxtlpqcCnLPlhSBDmwmgHKrg
+A) C. Obasi et al. 2023 - Searching for globular clusters in the inner halo of the Circinus galaxy 
+https://mail.google.com/mail/u/0/?ogbl#inbox/KtbxLwgsttzxtlpqcCnLPlhSBDmwmgHKrg
 
-B) The globular cluster system of the nearest Seyfert II galaxy Circinus
-Link: https://www.aanda.org/articles/aa/abs/2023/02/aa43154-22/aa43154-22.html
+B) C. Obasi et al. 2023 - The globular cluster system of the nearest Seyfert II galaxy Circinus
+https://www.aanda.org/articles/aa/full_html/2023/02/aa43154-22/aa43154-22.html
 
-C) The VVVX quest for satellites around the Circinus Galaxy
-I am going to ask Laura if it is okay to add the link to the paper
+C) L. Baravalle et al. (2024, in prep.) - The VVVX quest for satellites around the Circinus Galaxy
