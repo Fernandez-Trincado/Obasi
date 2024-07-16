@@ -15,7 +15,7 @@ C. Obasi (1), M. Gómez (2), D. Minniti (2, 3), J. G. Fernández-Trincado (4), M
 # Relevant publications
 
 A) C. Obasi et al. 2023 - Searching for globular clusters in the inner halo of the Circinus galaxy 
-https://mail.google.com/mail/u/0/?ogbl#inbox/KtbxLwgsttzxtlpqcCnLPlhSBDmwmgHKrg
+https://academic.oup.com/mnras/article/529/3/3075/7624223
 
 B) C. Obasi et al. 2023 - The globular cluster system of the nearest Seyfert II galaxy Circinus
 https://www.aanda.org/articles/aa/full_html/2023/02/aa43154-22/aa43154-22.html
