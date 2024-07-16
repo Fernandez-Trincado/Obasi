@@ -21,3 +21,8 @@ B) C. Obasi et al. 2023 - The globular cluster system of the nearest Seyfert II 
 https://www.aanda.org/articles/aa/full_html/2023/02/aa43154-22/aa43154-22.html
 
 C) L. Baravalle et al. (2024, in prep.) - The VVVX quest for satellites around the Circinus Galaxy
+
+# Contact
+
+Please let me know if you have any questions or suggestions: casmiroluabuchukwuobasi@gmail.com
+
