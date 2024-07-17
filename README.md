@@ -2,7 +2,7 @@
 
 # Authors
 
-**C. Obasi** (1), M. Gómez (2), D. Minniti (2, 3), J. G. Fernández-Trincado (4), M. V. Alonso (5, 6), L. Baravalle (5), and B. I. Okere (1)
+**C. Obasi**(1), M. Gómez(2), D. Minniti (2,3), J. G. Fernández-Trincado(4), M. V. Alonso(5,6), L. Baravalle(5), & B. I. Okere(1)
 
 # Affiliations
 1. Centre for Basic Space Science, University of Nigeria, 410102 Nsukka, Nigeria
@@ -19,6 +19,10 @@ A) **C. Obasi** et al. 2024, MNRAS, 529, 3075, [Searching for globular clusters 
 B) **C. Obasi** et al. 2023, A&A, 670, A18, [The globular cluster system of the nearest Seyfert II galaxy Circinus](https://www.aanda.org/articles/aa/full_html/2023/02/aa43154-22/aa43154-22.html)
 
 C) L. Baravalle, (including **C. Obasi**) et al. (2024, in prep.) - The VVVX quest for satellites around the Circinus Galaxy
+
+# Acknowledgements
+
+**D.M.** gratefully acknowledges support from the Center for Astrophysics and Associated Technologies CATA by the ANID BASAL projects ACE210002 and FB210003, by Fondecyt Project No. 1220724. **J.G.F-T** gratefully acknowledges the grants support provided by ANID Fondecyt Iniciación No. 11220340, ANID Fondecyt Postdoc No. 3230001 and CAS-ANID/CAS220009 (Sponsoring researcher in both), from the Joint Committee ESO-Government of Chile under the agreement 2021 ORP 023/2021 and 2023 ORP 062/2023. 
 
 # Contact
 
