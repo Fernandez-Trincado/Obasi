@@ -2,7 +2,7 @@
 
 ![Figure 1](https://github.com/Fernandez-Trincado/Obasi/blob/main/Circinus.png)
 
-**Figure:** DECam composite image of the Circinus galaxy
+**Figure:** [DECam](https://noirlab.edu/public/programs/ctio/victor-blanco-4m-telescope/decam/) composite image of the Circinus galaxy
 
 # Authors
 
