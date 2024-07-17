@@ -1,4 +1,6 @@
-# New VVV/VVVX Globular Cluster Candidates
+# Searching for globular clusters in the inner halo of the Circinus galaxy
+
+
 
 # Authors
 
