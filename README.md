@@ -1,6 +1,6 @@
 # Searching for globular clusters in the inner halo of the Circinus galaxy
 
-![Figure 1](https://github.com/Fernandez-Trincado/Obasi/blob/main/Circinus.png)
+![Figure 1][xxx](https://github.com/Fernandez-Trincado/Obasi/blob/main/Circinus.png)
 
 # Authors
 
