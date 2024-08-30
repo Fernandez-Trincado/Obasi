@@ -1,9 +1,5 @@
 # Searching for globular clusters in the inner halo of the Circinus galaxy
 
-![Figure 1](https://github.com/Fernandez-Trincado/Obasi/blob/main/Circinus.png)
-
-**Figure:** [DECam](https://noirlab.edu/public/programs/ctio/victor-blanco-4m-telescope/decam/) composite image of the Circinus galaxy
-
 # Authors
 
 **C. Obasi**(1), M. Gómez(2), D. Minniti (2,3), J. G. Fernández-Trincado(4), M. V. Alonso(5,6), L. Baravalle(5), & B. I. Okere(1)
